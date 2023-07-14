@@ -1,3 +1,4 @@
+"use strict"
 const inputSizeControl = document.getElementById('font-size-control');
 const textValue = document.getElementById('text');
 

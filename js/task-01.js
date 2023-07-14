@@ -1,3 +1,4 @@
+"use strict"
 const categoriesRef = document.getElementById("categories");
 const titleCategories = categoriesRef.children;
 const lengthAmountCategories = titleCategories.length;

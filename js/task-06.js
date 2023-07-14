@@ -1,3 +1,4 @@
+"use strict"
 const textInput = document.getElementById('validation-input');
 textInput.addEventListener('blur', onBlurBorderColor);
 
